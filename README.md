@@ -363,8 +363,10 @@ mvn test
 All backend unit and integration tests cover authentication, eligibility evaluation, the workflow state machine, staged disbursement, milestone compliance, and fund utilization.
 
 ---
-✍️ Author
-Jagan S. — Lead 📧 jaganselvamm05@gmail.com | 🔗 GitHub
+## ✍️ Author
+
+Jagan S. — Lead 📧 jaganselvamm05@gmail.com | 🔗 https://github.com/JaganS05
+
 
 ## 📄 License
 
